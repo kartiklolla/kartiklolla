@@ -1,4 +1,4 @@
-![skulldungeon-legendary-skull](https://github.com/user-attachments/assets/2c535f09-7dca-42e7-9cc4-3bf0bba16edf)
+   ![skulldungeon-legendary-skull](https://github.com/user-attachments/assets/2c535f09-7dca-42e7-9cc4-3bf0bba16edf)
 
 - 👋 Hi, I’m @kartiklolla (also known as the_tenth_spear)
 - 👀 I’m interested in CyberSecurity(hecker literally), Machine Learning and its applications on our future(Gonna make it great one!!)
