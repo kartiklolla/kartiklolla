@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @kartiklolla (also known as the_tenth_spear)
 - 👀 I’m interested in CyberSecurity(hecker literally), Machine Learning and its applications on our future(Gonna make it great one!!)
 - 🌱 I’m currently pursuing Bachelor of Technology in Computer Science Engineering in IIT(ISM) Dhanbad
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at- gmail: kartiklolla.1@gmail.com 
 - 😄 Pronouns: He/him (sometimes an attack helicopter)
 - ⚡ Fun fact: I sometimes forget who I am!!
