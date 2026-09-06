@@ -1,11 +1,4 @@
 ```console
-the_tenth_spear@nowhere:~$ echo $MOTTO
-
-  the things I do for love
-
-the_tenth_spear@nowhere:~$ _
-```
-```console
 the_tenth_spear@nowhere:~$ cat about_me.txt
 
   CS undergrad at IIT (ISM) Dhanbad, from Hyderabad.
@@ -50,4 +43,11 @@ the_tenth_spear@nowhere:~$ whoami --contact
   mail      kartiklolla.1@gmail.com
   location  Hyderabad / Dhanbad, somewhere off the middle of nowhere
   status    open to security, systems and ML-evaluation work
+```
+```console
+the_tenth_spear@nowhere:~$ echo $MOTTO
+
+  the things I do for love
+
+the_tenth_spear@nowhere:~$ _
 ```
