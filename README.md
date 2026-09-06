@@ -9,8 +9,7 @@ the_tenth_spear@nowhere:~$ _
 the_tenth_spear@nowhere:~$ cat about_me.txt
 
   CS undergrad at IIT (ISM) Dhanbad, from Hyderabad.
-  I work on security, systems, and the unglamorous half of ML:
-  checking whether the result actually holds.
+  I work on security, systems, and ML.
 
   Offensive and defensive tooling by instinct. Verifier harnesses,
   forensics, side-channel work.
